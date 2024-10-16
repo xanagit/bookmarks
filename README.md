@@ -1,1 +1,2 @@
-![icon](https://github.com/favicon.ico)[Github](https://github.com)
+# Tech
+- ![icon](https://github.com/favicon.ico)[Github](https://github.com)
